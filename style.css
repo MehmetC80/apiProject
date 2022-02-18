@@ -1,0 +1,17 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+#astro-image {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+}
